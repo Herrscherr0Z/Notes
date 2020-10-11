@@ -1,0 +1,16 @@
+Assignment: Week 6 - PC Purchase
+1. Briefly describe the activities you perform frequently on your computer that is important for having a fast and functional system.  The description should be relevant to respond below.
+
+2. Complete the table below with your quote.
+
+| Computer Component  | Quantity | Price | Rationale for Component |
+| ----------- | ----------- | ----------- | ----------- |
+| Content Cell  | Content Cell  | $0.00         | Rationale     |
+| Content Cell  | Content Cell  | $0.00         | Rationale     |
+| Content Cell  | Content Cell  | $0.00         | Rationale     |
+| Content Cell  | Content Cell  | $0.00         | Rationale     |
+| Content Cell  | Content Cell  | $0.00         | Rationale     |
+| Content Cell  | Content Cell  | $0.00         | Rationale     |
+| Content Cell  | Content Cell  | $0.00         | Rationale     |
+| Content Cell  | Content Cell  | $0.00         | Rationale     |
+| Total Cost      |                       |                   |                      |   
